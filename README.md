@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thomas-hummelgen
+- 👀 I’m interested in learning through challanges, and also trying new things
+- 🌱 I’m currently learning Java Script and SQL
+- 💞️ I’m looking to collaborate on any project i can learn from
+- 📫 How to reach me. You can reach me on my LinkedIn profile in my bio or DMing me on instagram -> Thomas Hummelgen
